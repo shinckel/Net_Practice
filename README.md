@@ -27,3 +27,4 @@ This project was developed for 42 school. For comprehensive information regardin
 |:----|:-----:|:--------|
 | **TCP** |  | |
 | **IP** | | |
+| **local IP address** | `ipconfig getifaddr en0` | Using the terminal command line, reveal your local IP address. |
