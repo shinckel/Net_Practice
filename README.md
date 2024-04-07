@@ -23,12 +23,13 @@ This project was developed for 42 school. For comprehensive information regardin
 [Subnet](https://en.wikipedia.org/wiki/Subnet) <br />
 [Let’s subnet your home network // You SUCK at subnetting // EP 6](https://www.youtube.com/watch?v=mJ_5qeqGOaI&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&index=6) <br />
 [Guide to NetPractice](https://github.com/lpaube/NetPractice) <br />
+[Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html?cclass=any&csubnet=30&cip=192.168.36.222&ctype=ipv4&x=Calculate) <br />
 
 ## Concepts
 
 | Task | Prototype | Description |
 |:----|:-----:|:--------|
-| **TCP** |  | |
+| **TCP** | `Transmission Control Protocol` | Exchange nessa |
 | **IP** | `class A - B - C` | An address fulfills the functions of identifying the host and locating it on the network in destination routing. An IP address is divided into two logical parts, the network prefix and the host identifier. All hosts on a subnet have the same network prefix. **This addressing structure permits the selective routing of IP packets across multiple networks via special gateway computers, called routers, to a destination host if the network prefixes of origination and destination hosts differ, or sent directly to a target host on the local network if they are the same.** |
 | **routers** | x | Routers constitute logical or physical borders between the subnets, and manage traffic between them. |
 | **network switches** | |  |
