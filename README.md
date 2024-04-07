@@ -22,6 +22,7 @@ This project was developed for 42 school. For comprehensive information regardin
 ### References
 [Subnet](https://en.wikipedia.org/wiki/Subnet) <br />
 [Let’s subnet your home network // You SUCK at subnetting // EP 6](https://www.youtube.com/watch?v=mJ_5qeqGOaI&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&index=6) <br />
+[Guide to NetPractice](https://github.com/lpaube/NetPractice) <br />
 
 ## Concepts
 
