@@ -14,12 +14,16 @@ This project was developed for 42 school. For comprehensive information regardin
 - The routing prefix may be expressed as the first address of a network, written in Classless Inter-Domain Routing (CIDR) notation, followed by a slash character (/), and ending with the bit-length of the prefix.
 - For example, 198.51.100.0/24 is the prefix of the Internet Protocol version 4 network starting at the given address, having 24 bits allocated for the network prefix, and the remaining 8 bits reserved for host addressing. Addresses in the range 198.51.100.0 to 198.51.100.255 belong to this network, with 198.51.100.255 as the subnet broadcast address.
 
-1. Calculate how many host bits you need to hack `255.255.255.0 = 11111111.11111111.11111111.00000000`;
-2. Save the host bits. How many do we need? `e.g. consider you have to find space for at least 40 hosts => 6 bits`;
+1. Calculate how many host bits you need to hack `255.255.255.0 = 11111111.11111111.11111111.00000000` `10.1.1.0`;
+2. Save the host bits. How many do we need? `e.g. consider you have to find space for at least 40 hosts, 3 networks => 6 bits`;
    ![image](https://github.com/shinckel/net_practice/assets/115558344/e55eae12-7a94-4616-8d5a-1ac69cdb0cdf)
-   ![image](https://github.com/shinckel/net_practice/assets/115558344/fffadfc7-6954-4293-accc-20807f8e5d8f)
-4. Find the increment;
-5. Create your networks.
+   ![image](https://github.com/shinckel/net_practice/assets/115558344/5aefcdde-5211-40ad-8722-cdef8c86d63e)
+4. Find the increment = last network bit. It is used to create the network (how big they are). `E.g. following the previous example it would be 64`;
+5. Create your networks
+   `10.1.1.0 - 10.1.1.63 /26 => it is 63 because we are couting zero` <br />
+   `10.1.1.64 - 10.1.1.127 /26` <br />
+   `10.1.1.128 - 10.1.1.191 /26` <br />
+   `255.255.255.192 = 11111111.11111111.11111111.11000000`
 
 ### References
 [Subnet](https://en.wikipedia.org/wiki/Subnet) <br />
