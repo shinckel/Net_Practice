@@ -50,3 +50,4 @@ This project was developed for 42 school. For comprehensive information regardin
 | **Increment** | 11111111.11111111.11111111.1**1**000000 `64 is the increment` | Last network bit we have. We use it to determin the size of a network and its range. Each one of the networks below will have the subnet mask `255.255.255.192/26` ![image](https://github.com/shinckel/net_practice/assets/115558344/f1009e8f-548f-440a-be40-bac892f44f83) |
 | **Traffic** | x | When the routing prefixes of the source address and the destination address differ. **A router serves as a logical or physical boundary between the subnets.** |
 | **Broadcast** | | Last IP address from the network. E.g. network => `192.168.1.0` broadcast => `192.168.1.255` router => `192.168.1.1` (connect with public IP addresses outside of the network) |
+| **Internet** | x | |
