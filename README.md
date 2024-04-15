@@ -53,3 +53,10 @@ This project was developed for 42 school. For comprehensive information regardin
 | **Broadcast** | | Last IP address from the network. E.g. network => `192.168.1.0` broadcast => `192.168.1.255` router => `192.168.1.1` (connect with public IP addresses outside of the network) |
 | **Internet** | x | Interconnected network. Set of rules about how networks communicate to eachother. |
 | **Domain Name System (DNS)** | `Yellow pages of the web` | DNS correlates IP address to human readable words. Mapping, translating IPs. |
+
+## Exercises
+<details>
+<summary>Level 8</summary>
+<img width="1261" alt="Screenshot 2024-04-15 at 16 50 18" src="https://github.com/shinckel/net_practice/assets/115558344/3f7557c3-b7d4-4ae2-be13-9000e1f7238b">
+</details>
+
