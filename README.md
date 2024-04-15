@@ -59,4 +59,11 @@ This project was developed for 42 school. For comprehensive information regardin
 <summary>Level 8</summary>
 <img width="1261" alt="Screenshot 2024-04-15 at 16 50 18" src="https://github.com/shinckel/net_practice/assets/115558344/3f7557c3-b7d4-4ae2-be13-9000e1f7238b">
 </details>
+<details>
+<summary>Level 9</summary>
+<img width="1082" alt="Screenshot 2024-04-15 at 17 56 45" src="https://github.com/shinckel/net_practice/assets/115558344/35f8571d-6a67-40db-b97f-ff9d98cda32a">
+</details>
+<summary>Level 10</summary>
+
+</details>
 
