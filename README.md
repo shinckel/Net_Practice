@@ -30,6 +30,7 @@ This project was developed for 42 school. For comprehensive information regardin
 [Let’s subnet your home network // You SUCK at subnetting // EP 6](https://www.youtube.com/watch?v=mJ_5qeqGOaI&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&index=6) <br />
 [Guide to NetPractice](https://github.com/lpaube/NetPractice) <br />
 [Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html?cclass=any&csubnet=30&cip=192.168.36.222&ctype=ipv4&x=Calculate) <br />
+[Internet Primer - CS50 Shorts](https://www.youtube.com/watch?v=04GztBlVo_s) <br />
 
 ## Concepts
 
