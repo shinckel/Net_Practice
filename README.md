@@ -56,6 +56,31 @@ This project was developed for 42 school. For comprehensive information regardin
 
 ## Exercises
 <details>
+<summary>Level 1</summary>
+<img width="1171" alt="Screenshot 2024-04-17 at 21 54 02" src="https://github.com/shinckel/net_practice/assets/115558344/1b1d7f71-04b8-4963-8b1f-1b467729734a">
+</details>
+
+<details>
+<summary>Level 2</summary>
+<img width="1068" alt="Screenshot 2024-04-17 at 22 41 16" src="https://github.com/shinckel/net_practice/assets/115558344/00e3c5b1-c097-490a-bfeb-f24b8437959a">
+</details>
+
+<details>
+<summary>Level 3</summary>
+<img width="1095" alt="Screenshot 2024-04-17 at 22 42 31" src="https://github.com/shinckel/net_practice/assets/115558344/36a09fed-454e-448f-bcd9-892a584e2d73">
+</details>
+
+<details>
+<summary>Level 4</summary>
+<img width="1132" alt="Screenshot 2024-04-17 at 22 44 43" src="https://github.com/shinckel/net_practice/assets/115558344/7e8ea9d1-ed5d-49e0-b835-e29f89deefd1">
+</details>
+
+<details>
+<summary>Level 5</summary>
+
+</details>
+
+<details>
 <summary>Level 8</summary>
 <img width="1261" alt="Screenshot 2024-04-15 at 16 50 18" src="https://github.com/shinckel/net_practice/assets/115558344/3f7557c3-b7d4-4ae2-be13-9000e1f7238b">
 </details>
